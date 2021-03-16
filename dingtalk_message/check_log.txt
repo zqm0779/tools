@@ -1,0 +1,16 @@
+2021-03-12 11:39:27,673 - [INFO] - web_error_tingtalk.py - https://wx.guorou.net/my-lesson
+2021-03-12 11:39:27,876 - [INFO] - web_error_tingtalk.py - https://wx.guorou.net/
+2021-03-12 11:39:46,012 - [INFO] - web_error_tingtalk.py - https://wx.guorou.net/my-lesson
+2021-03-12 11:39:46,204 - [INFO] - web_error_tingtalk.py - https://wx.guorou.net/1
+2021-03-12 11:40:33,102 - [INFO] - web_error_tingtalk.py - https://wx.guorou.net/my-lesson
+2021-03-12 11:40:33,360 - [INFO] - web_error_tingtalk.py - https://wx.guorou.net/
+2021-03-12 11:40:40,112 - [INFO] - web_error_tingtalk.py - https://wx.guorou.net/my-lesson
+2021-03-12 11:44:59,676 - [INFO] - web_error_tingtalk.py - https://wx.guorou.net/my-lesson
+2021-03-12 11:45:00,012 - [WARNING] - web_error_tingtalk.py - https://wx.guorou.net/1 went wrong
+
+2021-03-12 11:46:07,461 - [INFO] - web_error_tingtalk.py - https://wx.guorou.net/my-lesson
+2021-03-12 11:46:07,799 - [WARNING] - web_error_tingtalk.py - https://wx.guorou.net/1 went wrong
+
+2021-03-12 11:48:02,331 - [INFO] - web_error_tingtalk.py - https://wx.guorou.net/my-lesson
+2021-03-12 11:48:02,692 - [WARNING] - web_error_tingtalk.py - ≤‚ ‘Õ¯÷∑£∫https://wx.guorou.net/1 went wrong
+
